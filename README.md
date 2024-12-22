@@ -16,5 +16,5 @@ Thư viện cần thiết
 <br>Mở trình duyệt và truy cập: http://127.0.0.1:5000<br>
 
 # Video giới thiệu
-
+[![Video]](https://vioo.cc/v/2uafI)
 # Nhóm thực hiện: 05
