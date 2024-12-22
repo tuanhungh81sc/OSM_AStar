@@ -11,9 +11,9 @@ Thư viện cần thiết
 - Scikit-learn
 
 # Hướng dẫn chạy ứng dụng
-Cài đặt tất cả thư viện bằng lệnh: pip install -r requirements.txt
-Chạy ứng dụng Flask: python app.py
-Mở trình duyệt và truy cập: http://127.0.0.1:5000
+<br>Cài đặt tất cả thư viện bằng lệnh: pip install -r requirements.txt<br>
+<br>Chạy ứng dụng Flask: python app.py<br>
+<br>Mở trình duyệt và truy cập: http://127.0.0.1:5000<br>
 
 # Video giới thiệu
 
