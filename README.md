@@ -16,6 +16,6 @@ Thư viện cần thiết
 <br>Mở trình duyệt và truy cập: http://127.0.0.1:5000<br>
 
 # Video giới thiệu
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mPZ2UDN-_VU" frameborder="0" allowfullscreen></iframe>
+[![Click here](https://img.youtube.com/vi/mPZ2UDN-_VU/0.jpg)](https://www.youtube.com/watch?v=mPZ2UDN-_VU)
 
 # Nhóm thực hiện: 05
